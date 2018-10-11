@@ -10,7 +10,7 @@
 carpentry: "swc"
 
 # Overall title for pages.
-title: "Learn programming using julia"
+title: "Julia package ecosystem"
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
